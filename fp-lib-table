@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "branches_v40COPY")(type "KiCad")(uri "$(KIPRJMOD)/branches_v40COPY.pretty")(options "")(descr ""))
+)
